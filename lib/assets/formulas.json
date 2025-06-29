@@ -1,0 +1,810 @@
+{
+  "math": [
+    {
+      "name": "Quadratic Formula",
+      "formula": "x = [-b \u00b1 \u221a(b\u00b2 - 4ac)] / 2a"
+    },
+    {
+      "name": "Area of a Circle",
+      "formula": "A = \u03c0r\u00b2"
+    },
+    {
+      "name": "Circumference of a Circle",
+      "formula": "C = 2\u03c0r"
+    },
+    {
+      "name": "Pythagorean Theorem",
+      "formula": "a\u00b2 + b\u00b2 = c\u00b2"
+    },
+    {
+      "name": "Slope Formula",
+      "formula": "m = (y\u2082 - y\u2081) / (x\u2082 - x\u2081)"
+    },
+    {
+      "name": "Distance Formula",
+      "formula": "d = \u221a[(x\u2082 - x\u2081)\u00b2 + (y\u2082 - y\u2081)\u00b2]"
+    },
+    {
+      "name": "Midpoint Formula",
+      "formula": "M = ((x\u2081 + x\u2082)/2, (y\u2081 + y\u2082)/2)"
+    },
+    {
+      "name": "Simple Interest",
+      "formula": "SI = PRT/100"
+    },
+    {
+      "name": "Compound Interest",
+      "formula": "CI = P(1 + r/n)\u207f\u1d57"
+    },
+    {
+      "name": "Area of Triangle",
+      "formula": "A = 1/2 * b * h"
+    },
+    {
+      "name": "Perimeter of Triangle",
+      "formula": "P = a + b + c"
+    },
+    {
+      "name": "Area of Rectangle",
+      "formula": "A = l \u00d7 w"
+    },
+    {
+      "name": "Perimeter of Rectangle",
+      "formula": "P = 2(l + w)"
+    },
+    {
+      "name": "Area of Square",
+      "formula": "A = s\u00b2"
+    },
+    {
+      "name": "Perimeter of Square",
+      "formula": "P = 4s"
+    },
+    {
+      "name": "Area of Parallelogram",
+      "formula": "A = b \u00d7 h"
+    },
+    {
+      "name": "Area of Trapezoid",
+      "formula": "A = 1/2 \u00d7 (b\u2081 + b\u2082) \u00d7 h"
+    },
+    {
+      "name": "Volume of Cube",
+      "formula": "V = a\u00b3"
+    },
+    {
+      "name": "Volume of Cuboid",
+      "formula": "V = l \u00d7 w \u00d7 h"
+    },
+    {
+      "name": "Volume of Cylinder",
+      "formula": "V = \u03c0r\u00b2h"
+    },
+    {
+      "name": "Surface Area of Cube",
+      "formula": "SA = 6a\u00b2"
+    },
+    {
+      "name": "Surface Area of Sphere",
+      "formula": "SA = 4\u03c0r\u00b2"
+    },
+    {
+      "name": "Volume of Sphere",
+      "formula": "V = 4/3\u03c0r\u00b3"
+    },
+    {
+      "name": "Volume of Cone",
+      "formula": "V = 1/3\u03c0r\u00b2h"
+    },
+    {
+      "name": "Arithmetic Sequence (nth term)",
+      "formula": "a\u2099 = a\u2081 + (n - 1)d"
+    },
+    {
+      "name": "Sum of Arithmetic Sequence",
+      "formula": "S\u2099 = n/2 \u00d7 (a\u2081 + a\u2099)"
+    },
+    {
+      "name": "Geometric Sequence (nth term)",
+      "formula": "a\u2099 = a\u2081 \u00d7 r\u207f\u207b\u00b9"
+    },
+    {
+      "name": "Sum of Geometric Series",
+      "formula": "S\u2099 = a(1 - r\u207f)/(1 - r)"
+    },
+    {
+      "name": "Mean (Average)",
+      "formula": "Mean = \u03a3x / n"
+    },
+    {
+      "name": "Mode",
+      "formula": "Most frequent value"
+    },
+    {
+      "name": "Median",
+      "formula": "Middle value when sorted"
+    },
+    {
+      "name": "Math Formula 31",
+      "formula": "Example Formula 31"
+    },
+    {
+      "name": "Math Formula 32",
+      "formula": "Example Formula 32"
+    },
+    {
+      "name": "Math Formula 33",
+      "formula": "Example Formula 33"
+    },
+    {
+      "name": "Math Formula 34",
+      "formula": "Example Formula 34"
+    },
+    {
+      "name": "Math Formula 35",
+      "formula": "Example Formula 35"
+    },
+    {
+      "name": "Math Formula 36",
+      "formula": "Example Formula 36"
+    },
+    {
+      "name": "Math Formula 37",
+      "formula": "Example Formula 37"
+    },
+    {
+      "name": "Math Formula 38",
+      "formula": "Example Formula 38"
+    },
+    {
+      "name": "Math Formula 39",
+      "formula": "Example Formula 39"
+    },
+    {
+      "name": "Math Formula 40",
+      "formula": "Example Formula 40"
+    },
+    {
+      "name": "Math Formula 41",
+      "formula": "Example Formula 41"
+    },
+    {
+      "name": "Math Formula 42",
+      "formula": "Example Formula 42"
+    },
+    {
+      "name": "Math Formula 43",
+      "formula": "Example Formula 43"
+    },
+    {
+      "name": "Math Formula 44",
+      "formula": "Example Formula 44"
+    },
+    {
+      "name": "Math Formula 45",
+      "formula": "Example Formula 45"
+    },
+    {
+      "name": "Math Formula 46",
+      "formula": "Example Formula 46"
+    },
+    {
+      "name": "Math Formula 47",
+      "formula": "Example Formula 47"
+    },
+    {
+      "name": "Math Formula 48",
+      "formula": "Example Formula 48"
+    },
+    {
+      "name": "Math Formula 49",
+      "formula": "Example Formula 49"
+    },
+    {
+      "name": "Math Formula 50",
+      "formula": "Example Formula 50"
+    },
+    {
+      "name": "Math Formula 51",
+      "formula": "Example Formula 51"
+    },
+    {
+      "name": "Math Formula 52",
+      "formula": "Example Formula 52"
+    },
+    {
+      "name": "Math Formula 53",
+      "formula": "Example Formula 53"
+    },
+    {
+      "name": "Math Formula 54",
+      "formula": "Example Formula 54"
+    },
+    {
+      "name": "Math Formula 55",
+      "formula": "Example Formula 55"
+    },
+    {
+      "name": "Math Formula 56",
+      "formula": "Example Formula 56"
+    },
+    {
+      "name": "Math Formula 57",
+      "formula": "Example Formula 57"
+    },
+    {
+      "name": "Math Formula 58",
+      "formula": "Example Formula 58"
+    },
+    {
+      "name": "Math Formula 59",
+      "formula": "Example Formula 59"
+    },
+    {
+      "name": "Math Formula 60",
+      "formula": "Example Formula 60"
+    },
+    {
+      "name": "Math Formula 61",
+      "formula": "Example Formula 61"
+    },
+    {
+      "name": "Math Formula 62",
+      "formula": "Example Formula 62"
+    },
+    {
+      "name": "Math Formula 63",
+      "formula": "Example Formula 63"
+    },
+    {
+      "name": "Math Formula 64",
+      "formula": "Example Formula 64"
+    },
+    {
+      "name": "Math Formula 65",
+      "formula": "Example Formula 65"
+    },
+    {
+      "name": "Math Formula 66",
+      "formula": "Example Formula 66"
+    },
+    {
+      "name": "Math Formula 67",
+      "formula": "Example Formula 67"
+    },
+    {
+      "name": "Math Formula 68",
+      "formula": "Example Formula 68"
+    },
+    {
+      "name": "Math Formula 69",
+      "formula": "Example Formula 69"
+    },
+    {
+      "name": "Math Formula 70",
+      "formula": "Example Formula 70"
+    },
+    {
+      "name": "Math Formula 71",
+      "formula": "Example Formula 71"
+    },
+    {
+      "name": "Math Formula 72",
+      "formula": "Example Formula 72"
+    },
+    {
+      "name": "Math Formula 73",
+      "formula": "Example Formula 73"
+    },
+    {
+      "name": "Math Formula 74",
+      "formula": "Example Formula 74"
+    },
+    {
+      "name": "Math Formula 75",
+      "formula": "Example Formula 75"
+    },
+    {
+      "name": "Math Formula 76",
+      "formula": "Example Formula 76"
+    },
+    {
+      "name": "Math Formula 77",
+      "formula": "Example Formula 77"
+    },
+    {
+      "name": "Math Formula 78",
+      "formula": "Example Formula 78"
+    },
+    {
+      "name": "Math Formula 79",
+      "formula": "Example Formula 79"
+    },
+    {
+      "name": "Math Formula 80",
+      "formula": "Example Formula 80"
+    },
+    {
+      "name": "Math Formula 81",
+      "formula": "Example Formula 81"
+    },
+    {
+      "name": "Math Formula 82",
+      "formula": "Example Formula 82"
+    },
+    {
+      "name": "Math Formula 83",
+      "formula": "Example Formula 83"
+    },
+    {
+      "name": "Math Formula 84",
+      "formula": "Example Formula 84"
+    },
+    {
+      "name": "Math Formula 85",
+      "formula": "Example Formula 85"
+    },
+    {
+      "name": "Math Formula 86",
+      "formula": "Example Formula 86"
+    },
+    {
+      "name": "Math Formula 87",
+      "formula": "Example Formula 87"
+    },
+    {
+      "name": "Math Formula 88",
+      "formula": "Example Formula 88"
+    },
+    {
+      "name": "Math Formula 89",
+      "formula": "Example Formula 89"
+    },
+    {
+      "name": "Math Formula 90",
+      "formula": "Example Formula 90"
+    },
+    {
+      "name": "Math Formula 91",
+      "formula": "Example Formula 91"
+    },
+    {
+      "name": "Math Formula 92",
+      "formula": "Example Formula 92"
+    },
+    {
+      "name": "Math Formula 93",
+      "formula": "Example Formula 93"
+    },
+    {
+      "name": "Math Formula 94",
+      "formula": "Example Formula 94"
+    },
+    {
+      "name": "Math Formula 95",
+      "formula": "Example Formula 95"
+    },
+    {
+      "name": "Math Formula 96",
+      "formula": "Example Formula 96"
+    },
+    {
+      "name": "Math Formula 97",
+      "formula": "Example Formula 97"
+    },
+    {
+      "name": "Math Formula 98",
+      "formula": "Example Formula 98"
+    },
+    {
+      "name": "Math Formula 99",
+      "formula": "Example Formula 99"
+    },
+    {
+      "name": "Math Formula 100",
+      "formula": "Example Formula 100"
+    }
+  ],
+  "physics": [
+    {
+      "name": "Newton's Second Law",
+      "formula": "F = ma"
+    },
+    {
+      "name": "Gravitational Force",
+      "formula": "F = G(m\u2081m\u2082)/r\u00b2"
+    },
+    {
+      "name": "Kinetic Energy",
+      "formula": "KE = 1/2mv\u00b2"
+    },
+    {
+      "name": "Potential Energy",
+      "formula": "PE = mgh"
+    },
+    {
+      "name": "Work Done",
+      "formula": "W = Fd"
+    },
+    {
+      "name": "Power",
+      "formula": "P = W/t"
+    },
+    {
+      "name": "Momentum",
+      "formula": "p = mv"
+    },
+    {
+      "name": "Ohm's Law",
+      "formula": "V = IR"
+    },
+    {
+      "name": "Coulomb's Law",
+      "formula": "F = kq\u2081q\u2082/r\u00b2"
+    },
+    {
+      "name": "Wave Speed",
+      "formula": "v = f\u03bb"
+    },
+    {
+      "name": "Density",
+      "formula": "\u03c1 = m/V"
+    },
+    {
+      "name": "Pressure",
+      "formula": "P = F/A"
+    },
+    {
+      "name": "Hooke's Law",
+      "formula": "F = -kx"
+    },
+    {
+      "name": "Frequency",
+      "formula": "f = 1/T"
+    },
+    {
+      "name": "Thermal Expansion",
+      "formula": "\u0394L = \u03b1L\u0394T"
+    },
+    {
+      "name": "Ideal Gas Law",
+      "formula": "PV = nRT"
+    },
+    {
+      "name": "Snell's Law",
+      "formula": "n\u2081sin\u03b8\u2081 = n\u2082sin\u03b8\u2082"
+    },
+    {
+      "name": "Lens Formula",
+      "formula": "1/f = 1/v - 1/u"
+    },
+    {
+      "name": "Mirror Formula",
+      "formula": "1/f = 1/v + 1/u"
+    },
+    {
+      "name": "Acceleration",
+      "formula": "a = \u0394v / \u0394t"
+    },
+    {
+      "name": "Displacement",
+      "formula": "s = ut + 1/2at\u00b2"
+    },
+    {
+      "name": "Final Velocity",
+      "formula": "v = u + at"
+    },
+    {
+      "name": "Relativistic Mass",
+      "formula": "m = m\u2080 / \u221a(1 - v\u00b2/c\u00b2)"
+    },
+    {
+      "name": "Electric Power",
+      "formula": "P = VI"
+    },
+    {
+      "name": "Capacitance",
+      "formula": "C = Q/V"
+    },
+    {
+      "name": "Magnetic Force",
+      "formula": "F = qvBsin\u03b8"
+    },
+    {
+      "name": "Induced EMF",
+      "formula": "EMF = -d\u03a6/dt"
+    },
+    {
+      "name": "Angular Momentum",
+      "formula": "L = I\u03c9"
+    },
+    {
+      "name": "Rotational KE",
+      "formula": "KE = 1/2I\u03c9\u00b2"
+    },
+    {
+      "name": "Escape Velocity",
+      "formula": "v = \u221a(2GM/R)"
+    },
+    {
+      "name": "Physics Formula 31",
+      "formula": "Example Physics Formula 31"
+    },
+    {
+      "name": "Physics Formula 32",
+      "formula": "Example Physics Formula 32"
+    },
+    {
+      "name": "Physics Formula 33",
+      "formula": "Example Physics Formula 33"
+    },
+    {
+      "name": "Physics Formula 34",
+      "formula": "Example Physics Formula 34"
+    },
+    {
+      "name": "Physics Formula 35",
+      "formula": "Example Physics Formula 35"
+    },
+    {
+      "name": "Physics Formula 36",
+      "formula": "Example Physics Formula 36"
+    },
+    {
+      "name": "Physics Formula 37",
+      "formula": "Example Physics Formula 37"
+    },
+    {
+      "name": "Physics Formula 38",
+      "formula": "Example Physics Formula 38"
+    },
+    {
+      "name": "Physics Formula 39",
+      "formula": "Example Physics Formula 39"
+    },
+    {
+      "name": "Physics Formula 40",
+      "formula": "Example Physics Formula 40"
+    },
+    {
+      "name": "Physics Formula 41",
+      "formula": "Example Physics Formula 41"
+    },
+    {
+      "name": "Physics Formula 42",
+      "formula": "Example Physics Formula 42"
+    },
+    {
+      "name": "Physics Formula 43",
+      "formula": "Example Physics Formula 43"
+    },
+    {
+      "name": "Physics Formula 44",
+      "formula": "Example Physics Formula 44"
+    },
+    {
+      "name": "Physics Formula 45",
+      "formula": "Example Physics Formula 45"
+    },
+    {
+      "name": "Physics Formula 46",
+      "formula": "Example Physics Formula 46"
+    },
+    {
+      "name": "Physics Formula 47",
+      "formula": "Example Physics Formula 47"
+    },
+    {
+      "name": "Physics Formula 48",
+      "formula": "Example Physics Formula 48"
+    },
+    {
+      "name": "Physics Formula 49",
+      "formula": "Example Physics Formula 49"
+    },
+    {
+      "name": "Physics Formula 50",
+      "formula": "Example Physics Formula 50"
+    },
+    {
+      "name": "Physics Formula 51",
+      "formula": "Example Physics Formula 51"
+    },
+    {
+      "name": "Physics Formula 52",
+      "formula": "Example Physics Formula 52"
+    },
+    {
+      "name": "Physics Formula 53",
+      "formula": "Example Physics Formula 53"
+    },
+    {
+      "name": "Physics Formula 54",
+      "formula": "Example Physics Formula 54"
+    },
+    {
+      "name": "Physics Formula 55",
+      "formula": "Example Physics Formula 55"
+    },
+    {
+      "name": "Physics Formula 56",
+      "formula": "Example Physics Formula 56"
+    },
+    {
+      "name": "Physics Formula 57",
+      "formula": "Example Physics Formula 57"
+    },
+    {
+      "name": "Physics Formula 58",
+      "formula": "Example Physics Formula 58"
+    },
+    {
+      "name": "Physics Formula 59",
+      "formula": "Example Physics Formula 59"
+    },
+    {
+      "name": "Physics Formula 60",
+      "formula": "Example Physics Formula 60"
+    },
+    {
+      "name": "Physics Formula 61",
+      "formula": "Example Physics Formula 61"
+    },
+    {
+      "name": "Physics Formula 62",
+      "formula": "Example Physics Formula 62"
+    },
+    {
+      "name": "Physics Formula 63",
+      "formula": "Example Physics Formula 63"
+    },
+    {
+      "name": "Physics Formula 64",
+      "formula": "Example Physics Formula 64"
+    },
+    {
+      "name": "Physics Formula 65",
+      "formula": "Example Physics Formula 65"
+    },
+    {
+      "name": "Physics Formula 66",
+      "formula": "Example Physics Formula 66"
+    },
+    {
+      "name": "Physics Formula 67",
+      "formula": "Example Physics Formula 67"
+    },
+    {
+      "name": "Physics Formula 68",
+      "formula": "Example Physics Formula 68"
+    },
+    {
+      "name": "Physics Formula 69",
+      "formula": "Example Physics Formula 69"
+    },
+    {
+      "name": "Physics Formula 70",
+      "formula": "Example Physics Formula 70"
+    },
+    {
+      "name": "Physics Formula 71",
+      "formula": "Example Physics Formula 71"
+    },
+    {
+      "name": "Physics Formula 72",
+      "formula": "Example Physics Formula 72"
+    },
+    {
+      "name": "Physics Formula 73",
+      "formula": "Example Physics Formula 73"
+    },
+    {
+      "name": "Physics Formula 74",
+      "formula": "Example Physics Formula 74"
+    },
+    {
+      "name": "Physics Formula 75",
+      "formula": "Example Physics Formula 75"
+    },
+    {
+      "name": "Physics Formula 76",
+      "formula": "Example Physics Formula 76"
+    },
+    {
+      "name": "Physics Formula 77",
+      "formula": "Example Physics Formula 77"
+    },
+    {
+      "name": "Physics Formula 78",
+      "formula": "Example Physics Formula 78"
+    },
+    {
+      "name": "Physics Formula 79",
+      "formula": "Example Physics Formula 79"
+    },
+    {
+      "name": "Physics Formula 80",
+      "formula": "Example Physics Formula 80"
+    },
+    {
+      "name": "Physics Formula 81",
+      "formula": "Example Physics Formula 81"
+    },
+    {
+      "name": "Physics Formula 82",
+      "formula": "Example Physics Formula 82"
+    },
+    {
+      "name": "Physics Formula 83",
+      "formula": "Example Physics Formula 83"
+    },
+    {
+      "name": "Physics Formula 84",
+      "formula": "Example Physics Formula 84"
+    },
+    {
+      "name": "Physics Formula 85",
+      "formula": "Example Physics Formula 85"
+    },
+    {
+      "name": "Physics Formula 86",
+      "formula": "Example Physics Formula 86"
+    },
+    {
+      "name": "Physics Formula 87",
+      "formula": "Example Physics Formula 87"
+    },
+    {
+      "name": "Physics Formula 88",
+      "formula": "Example Physics Formula 88"
+    },
+    {
+      "name": "Physics Formula 89",
+      "formula": "Example Physics Formula 89"
+    },
+    {
+      "name": "Physics Formula 90",
+      "formula": "Example Physics Formula 90"
+    },
+    {
+      "name": "Physics Formula 91",
+      "formula": "Example Physics Formula 91"
+    },
+    {
+      "name": "Physics Formula 92",
+      "formula": "Example Physics Formula 92"
+    },
+    {
+      "name": "Physics Formula 93",
+      "formula": "Example Physics Formula 93"
+    },
+    {
+      "name": "Physics Formula 94",
+      "formula": "Example Physics Formula 94"
+    },
+    {
+      "name": "Physics Formula 95",
+      "formula": "Example Physics Formula 95"
+    },
+    {
+      "name": "Physics Formula 96",
+      "formula": "Example Physics Formula 96"
+    },
+    {
+      "name": "Physics Formula 97",
+      "formula": "Example Physics Formula 97"
+    },
+    {
+      "name": "Physics Formula 98",
+      "formula": "Example Physics Formula 98"
+    },
+    {
+      "name": "Physics Formula 99",
+      "formula": "Example Physics Formula 99"
+    },
+    {
+      "name": "Physics Formula 100",
+      "formula": "Example Physics Formula 100"
+    }
+  ]
+}
